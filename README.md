@@ -40,7 +40,7 @@ To commit changes use this to put a descriptive message 'git commit -m "Descript
 
 To push the commits, use 'git push'
 
-##Manage of branches
+## Manage of branches
 
 To create a new one use 'git branch branch-name'
 
